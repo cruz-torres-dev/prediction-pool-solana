@@ -1,1 +1,0 @@
-# prediction-pool-solana
